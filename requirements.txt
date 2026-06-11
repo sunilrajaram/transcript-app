@@ -2,3 +2,4 @@ streamlit
 faster-whisper
 numpy
 python-docx
+ollama
